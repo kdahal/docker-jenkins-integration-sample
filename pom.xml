@@ -10,13 +10,5 @@
 <build>
     <finalName>docker-jenkins-integration-sample</finalName>
 </build>
-
-<dependency>
-  <groupId>com.example.maven-project</groupId>
-  <artifactId>maven-project</artifactId>
-  <version>1.0-20220502.023832-1</version>
-  <type>war</type>
-</dependency>
-         
          
 </project>
